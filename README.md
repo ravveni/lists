@@ -1,3 +1,4 @@
 # lists
-miscellaneous lists for random generation/reference purposes.
-python utility file added for bulk editing tasks.
+miscellaneous plain text lists for random generation/reference purposes.
+
+use `utils.py` for any bulk editing/data parsing tasks.

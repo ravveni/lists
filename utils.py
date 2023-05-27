@@ -24,6 +24,7 @@ def remove_duplicates_from_list(filepath):
     no_dup_lines = sorted(list(dict.fromkeys(lines)))
 
     for no_dup_line in no_dup_lines:
+        no_dup_line = no_dup_line.strip() + "\n"
         file.write(no_dup_line) # adjust new line as needed
 
     file.close()
@@ -48,5 +49,3 @@ def separate_commaed_list(filepath):
 
     first_column.close()
     second_column.close()
-
-remove_duplicates_from_list("geography/canadian_us_cities.txt")
