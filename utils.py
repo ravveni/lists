@@ -15,7 +15,7 @@ def find_longest_string(filepath):
 
     print("Longest string in " + filepath + ": " + longest_string)
 
-def remove_duplicates_from_list(filepath):
+def remove_duplicates_and_sort_list(filepath):
     file = open(filepath, 'r')
     lines = file.readlines()
     file.close()
@@ -24,7 +24,7 @@ def remove_duplicates_from_list(filepath):
     no_dup_lines = sorted(list(dict.fromkeys(lines)))
 
     for no_dup_line in no_dup_lines:
-        no_dup_line = no_dup_line.strip() + "\n"
+        no_dup_line = no_dup_line.strip().capitalize() + "\n"
         file.write(no_dup_line) # adjust new line as needed
 
     file.close()
