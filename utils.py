@@ -15,7 +15,7 @@ def find_longest_string(filepath):
 
     print("Longest string in " + filepath + ": " + longest_string)
 
-def remove_duplicates_and_sort_list(filepath):
+def remove_duplicates_and_sort_list(filepath, capitalize = True, new_line = True):
     file = open(filepath, 'r')
     lines = file.readlines()
     file.close()
@@ -24,12 +24,19 @@ def remove_duplicates_and_sort_list(filepath):
     no_dup_lines = sorted(list(dict.fromkeys(lines)))
 
     for no_dup_line in no_dup_lines:
-        no_dup_line = no_dup_line.strip().capitalize() + "\n"
-        file.write(no_dup_line) # adjust new line as needed
+        no_dup_line = no_dup_line.strip()
+
+        if capitalize:
+            no_dup_line = no_dup_line.capitalize()
+
+        if new_line:
+            no_dup_line = no_dup_line + "\n"
+
+        file.write(no_dup_line)
 
     file.close()
 
-def separate_commaed_list(filepath):
+def separate_commaed_list(filepath, new_line = True):
     split_filepath = filepath.split("/")
     folder = split_filepath[0]
     filename = split_filepath[1].split(".")[0]
@@ -44,8 +51,14 @@ def separate_commaed_list(filepath):
 
     for line in lines:
         split_line = line.split(", ")
-        first_column.write(split_line[0] + "\n") # adjust new line as needed
+        if new_line:
+            first_column.write(split_line[0] + "\n")
+        else:
+            first_column.write(split_line[0])
+
         second_column.write(split_line[1])
 
     first_column.close()
     second_column.close()
+
+remove_duplicates_and_sort_list("names/popes.txt", False)

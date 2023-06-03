@@ -1,266 +1,264 @@
-Peter
-Linus
-Cletus
-Clement 1
-Evaristus
-Alexander I
-Sixtus I
-Telesphorus
-Hyginus
-Pius I
-Anicetus
-Soter
-Eleutherius
-Victor I
-Zephyrinus
-Callistus
-Urban I
-Pontian
-Anterus
-Fabian
-Cornelius
-Lucius I
-Stephen I
-Sixtus I1
-Dionysius
-Felix I
-Eutychian
-Caius
-Marcellinus
-Marcellus I
-Eusebius
-Miltiades
-Sil Vester I
-Mark
-Julius I
-Liberius
-Damasus I
-Siricius
-Anastasius I
-Innocent I
-Zosimus
-Boniface I
-Celestine I
-Sixtus III
-Leo I
-Hilarus
-Simplicius
-Felix III
-Gelasius I
-Anastasius II
-Symmachus
-Hormisdas
-John I
-Felix IV
-Boniface II
-John II
-Agapitus I
-Silverius
-Vigilius
-Pelagius I
-John III
-Benedict I
-Pelagius II
-Gregory I
-Sabinian
-Boniface III
-Boniface IV
 Adeodatus
-Boniface V
-Honorius I
-Severinus
-John IV
-Theodore I
-Martin I
-Eugene I
-Vitalian
 Adeodatus II
-Donus
-Agatho
-Leo II
-Benedict II
-John V
-Conon
-Sergius I
-John VI
-John VII
-Sissinius
-Constantine
-Gregory II
-Gregory III
-Zacharias
-Stephen II
-Paul I
-Stephen III
-Hadrian I
-Leo III
-Stephen IV
-Paschal I
-Eugene II
-Valentine
-Gregory IV
-Sergius II
-Leo IV
-Benedict III
-Nicholas
-Hadrian II
-John VIII
-Marinus I
-Hadrian III
-Stephen V
-Formosus
-Boniface VI
-Stephen VI
-Romanus
-Theodore II
-John IX
-Benedict IV
-Leo V
-Sergius III
-Anastasius III
-Lando
-John X
-Leo VI
-Stephen VII
-John XI
-Leo VII
-Stephen VIII
-Marinus II
+Agapitus I
 Agapitus II
-John XII
-Leo VIII
+Agatho
+Alexander I
+Alexander II
+Alexander III
+Alexander IV
+Alexander VI
+Alexander VII
+Alexander VIII
+Anastasius I
+Anastasius II
+Anastasius III
+Anastasius IV
+Anicetus
+Anterus
+Benedict I
+Benedict II
+Benedict III
+Benedict IV
+Benedict IX
 Benedict V
-John XIII
 Benedict VI
 Benedict VII
-John XIV
-John XV
-Gregory V
-Silvester II
-John XVII
-John XVIII
-Sergius IV
 Benedict VIII
-John XIX
-Benedict IX
-Silvester III
-Benedict IX
-Gregory VI
-Clement II
-Benedict IX
-Damasus II
-Leo IX
-Victor II
-Stephen IX
-Nicholas II
-Alexander II
-Gregory VII
-Victor III
-Urban II
-Paschal II
-Gelasius II
-Callistus II
-Honorius II
-Innocent II
-Celestine II
-Lucius II
-Eugene III
-Anastasius IV
-Hadrian IV
-Alexander III
-Lucius III
-Urban III
-Gregory VIII
-Clement III
-Celestine III
-Innocent III
-Honorius III
-Gregory IX
-Celestine IV
-Innocent IV
-Alexander IV
-Urban IV
-Clement IV
-Gregory X
-Innocent V
-Hadrian V
-John XXI
-Nicholas III
-Martin IV
-Honorius IV
-Nicholas IV
-Celestine V
-Boniface VIII
 Benedict XI
-Clement V
-John XXII
 Benedict XII
-Clement VI
-Innocent VI
-Urban V
-Gregory XI
-Urban VI
-Boniface IX
-Innocent VII
-Gregory XII
-Martin V
-Eugene IV
-Nicholas V
-Calixtus III
-Pius II
-Paul II
-Sixtus IV
-Innocent VIII
-Alexander VI
-Pius III
-Julius II
-Leo X
-Hadrian VI
-Clement VII
-Paul III
-Jules III
-Marcellus II
-Paul IV
-Pius IV
-Pius V
-Gregory XIII
-Sixtus V
-Urban VII
-Gregory XIV
-Innocent IX
-Clement VIII
-Leo XI
-Paul V
-Gregory XV
-Urban VIII
-Innocent X
-Alexander VII
-Clement IX
-Clement X
-Innocent XI
-Alexander VIII
-Innocent XII
-Clement XI
-Innocent XIII
 Benedict XIII
-Clement XII
 Benedict XIV
+Benedict XV
+Benedict XVI
+Boniface I
+Boniface II
+Boniface III
+Boniface IV
+Boniface IX
+Boniface V
+Boniface VI
+Boniface VIII
+Caius
+Calixtus III
+Callistus
+Callistus II
+Celestine I
+Celestine II
+Celestine III
+Celestine IV
+Celestine V
+Clement 1
+Clement II
+Clement III
+Clement IV
+Clement IX
+Clement V
+Clement VI
+Clement VII
+Clement VIII
+Clement X
+Clement XI
+Clement XII
 Clement XIII
 Clement XIV
-Pius VI
-Pius VII
-Leo XII
-Pius VIII
+Cletus
+Conon
+Constantine
+Cornelius
+Damasus I
+Damasus II
+Dionysius
+Donus
+Eleutherius
+Eugene I
+Eugene II
+Eugene III
+Eugene IV
+Eusebius
+Eutychian
+Evaristus
+Fabian
+Felix I
+Felix III
+Felix IV
+Formosus
+Francis
+Gelasius I
+Gelasius II
+Gregory I
+Gregory II
+Gregory III
+Gregory IV
+Gregory IX
+Gregory V
+Gregory VI
+Gregory VII
+Gregory VIII
+Gregory X
+Gregory XI
+Gregory XII
+Gregory XIII
+Gregory XIV
+Gregory XV
 Gregory XVI
-Pius IX
-Leo XIII
-Pius X
-Benedict XV
-Pius XI
-Pius XII
-John XXIII
-Paul VI
+Hadrian I
+Hadrian II
+Hadrian III
+Hadrian IV
+Hadrian V
+Hadrian VI
+Hilarus
+Honorius I
+Honorius II
+Honorius III
+Honorius IV
+Hormisdas
+Hyginus
+Innocent I
+Innocent II
+Innocent III
+Innocent IV
+Innocent IX
+Innocent V
+Innocent VI
+Innocent VII
+Innocent VIII
+Innocent X
+Innocent XI
+Innocent XII
+Innocent XIII
+John I
+John II
+John III
+John IV
+John IX
 John Paul I
 John Paul II
-Benedict XVI
-Francis
+John V
+John VI
+John VII
+John VIII
+John X
+John XI
+John XII
+John XIII
+John XIV
+John XIX
+John XV
+John XVII
+John XVIII
+John XXI
+John XXII
+John XXIII
+Jules III
+Julius I
+Julius II
+Lando
+Leo I
+Leo II
+Leo III
+Leo IV
+Leo IX
+Leo V
+Leo VI
+Leo VII
+Leo VIII
+Leo X
+Leo XI
+Leo XII
+Leo XIII
+Liberius
+Linus
+Lucius I
+Lucius II
+Lucius III
+Marcellinus
+Marcellus I
+Marcellus II
+Marinus I
+Marinus II
+Mark
+Martin I
+Martin IV
+Martin V
+Miltiades
+Nicholas
+Nicholas II
+Nicholas III
+Nicholas IV
+Nicholas V
+Paschal I
+Paschal II
+Paul I
+Paul II
+Paul III
+Paul IV
+Paul V
+Paul VI
+Pelagius I
+Pelagius II
+Peter
+Pius I
+Pius II
+Pius III
+Pius IV
+Pius IX
+Pius V
+Pius VI
+Pius VII
+Pius VIII
+Pius X
+Pius XI
+Pius XII
+Pontian
+Romanus
+Sabinian
+Sergius I
+Sergius II
+Sergius III
+Sergius IV
+Severinus
+Sil Vester I
+Silverius
+Silvester II
+Silvester III
+Simplicius
+Siricius
+Sissinius
+Sixtus I
+Sixtus I1
+Sixtus III
+Sixtus IV
+Sixtus V
+Soter
+Stephen I
+Stephen II
+Stephen III
+Stephen IV
+Stephen IX
+Stephen V
+Stephen VI
+Stephen VII
+Stephen VIII
+Symmachus
+Telesphorus
+Theodore I
+Theodore II
+Urban I
+Urban II
+Urban III
+Urban IV
+Urban V
+Urban VI
+Urban VII
+Urban VIII
+Valentine
+Victor I
+Victor II
+Victor III
+Vigilius
+Vitalian
+Zacharias
+Zephyrinus
+Zosimus
