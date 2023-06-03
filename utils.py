@@ -60,5 +60,3 @@ def separate_commaed_list(filepath, new_line = True):
 
     first_column.close()
     second_column.close()
-
-remove_duplicates_and_sort_list("names/popes.txt", False)
