@@ -1,0 +1,52 @@
+belt
+bikini
+blouse
+boots
+boxer shorts
+bra
+cap
+cardigan
+cargo pants
+coat
+dress
+evening gown / evening dress
+G-string
+gloves
+hat
+hoodie
+jacket
+jeans
+leggings
+mittens
+overalls / dungarees
+pajamas / pyjamas
+panties / knickers
+pants / trousers
+pantyhose
+polo shirt
+pullover
+raincoat
+scarf
+shawl
+shirt
+shoes
+shorts
+skirt
+slacks
+socks
+suit
+sweater / jumper
+sweatpants
+sweatshirt
+swimming trunks
+swimsuit
+T-shirt
+tank top
+tie
+tracksuit
+trench coat
+tuxedo
+underpants
+vest / waistcoat
+wedding dress
+windbreaker

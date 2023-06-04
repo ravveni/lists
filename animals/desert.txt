@@ -1,0 +1,385 @@
+Aardvark
+Aardwolf
+Abert’s Towhee
+Addax
+African Desert Warbler
+African Leopard
+African Silverbill
+African Wild Dog
+Agile Ground Mantis
+Amargosa Toad
+Andean Flamingo
+Anna’s Hummingbird
+Arabian Camel
+Arabian Leopard
+Arabian Oryx
+Arabian Wolves
+Arizona Bark Scorpion
+Arizona Night Lizard
+Arizona Pocket Mouse
+Arizona Woodpecker
+Asiatic Wildcat
+Australian Feral Camel
+Bactrian Camel
+Badwater Snail
+Bandy-bandy
+Barbary Ostrich
+Bat-eared Fox
+Bearded Dragon
+Bell’s Sparrow
+Bell’s Vireo
+Bendire’s thrasher
+Bendire’s Thrasher
+Bengal Fox
+Bezy’s Night Lizard
+Bighorn Sheep
+Black Hairy Thick-tailed Scorpion
+Black Rhinoceros
+Black Toad
+Black-backed Jackal
+Black-chinned Hummingbird
+Black-chinned Sparrow
+Black-tailed Gnatcatcher
+Black-tailed Jackrabbit
+Blackbuck
+Blesbok
+Bobcat
+Bolson Tortoise
+Botta’s Pocket Gopher
+Broad-billed Hummingbird
+Brown Bear
+Brown hyena
+Brown Hyena
+Burchell’s Zebra
+Burrowing Owl
+Cactus Mouse
+Cactus Wren
+Cairo Spiney Mouse
+California Carpenter Bee
+California Leaf-nosed Bat
+California Mantis
+California Quail
+California Rock Lizard
+Canyon Bat
+Canyon Towhee
+Cape Cobra
+Cape Fur Seal
+Cape Hare
+Cape hunting dog
+Cape Porcupine
+Caracal
+Carbonera Pupfish
+Cassin’s Sparrow
+Cassin’s Vireo
+Central Asian Viper
+Chacma Baboon
+Chestnut-breasted Whiteface
+Chestnut-collared Longspur
+Chihuahua Chub
+Chihuahua Shiner
+Chihuahuan Raven
+Chihuahuan Spotted Whiptail
+Chilean Woodstar
+Chimango Caracara
+Chinkara
+Chisel-toothed Kangaroo Rat
+Chuckwalla
+Clark’s Nutcracker
+Coachella Valley Grasshopper
+Collared Lizard
+Collared Peccary
+Colorado Desert Sidewinder
+Colorado River Toad
+Comanche Springs Pupfish
+Common Desert Centipede
+Common Eland
+Common Raven
+Common Warthog
+Costa’s hummingbird
+Costa’s Hummingbird
+Cottontail Rabbit
+Coyote
+Crest-tailed Mulgara
+Crevice Spiny Lizard
+Crissal Thrasher
+Crowned Sandgrouse
+Culpeo Fox
+Curve-billed Thrasher
+Dama Gazelle
+Dark Grass Blue Butterfly
+Darwin’s Leaf-eared Mouse
+Death Valley Pupfish
+Deathstalker Scorpion
+Desert Bighorn Sheep
+Desert Box Turtle
+Desert Cardinal
+Desert Cottontail
+Desert Cottontail Rabbit
+Desert Crocodile
+Desert Elephant
+Desert Grassland Whiptail Lizard
+Desert Headgehog
+Desert Hedgehog
+Desert Horned Viper
+Desert Iguana
+Desert Kit Fox
+Desert Long-eared Bat
+Desert Night Lizard
+Desert Pocket Gopher
+Desert Pupfish
+Desert Recluse
+Desert Recluse Spider
+Desert Spiny Lizard
+Desert Tortoise
+Desert Whitetail
+Desert Woodrat
+Devils Hole Pupfish
+Devils River Minnow
+Dingo
+Doll’s Sphinx Moth
+Dorcas Gazelle
+Duiker
+Eastern Greater Hoopoe-lark
+Egyptian Pipistrelle
+Egyptian Praying Mantis
+Egyptian Uromastyx
+Elephant
+Elf Owl
+Eva’s Desert Mouse
+Fennec Fox
+Ferruginous Pygmy-owl
+Flame Skimmer
+Flat-tail Horned Lizard
+Fringe-toed Lizard
+Gambel’s Quail
+Gemsbok
+Giant Eagle Owl
+Giant Hummingbird
+Giant Redheaded Centipede
+Giant Sonoran Centipede
+Gila Mountain sucker
+Gila Topminnow
+Gila Woodpecker
+Gilded Flicker
+Glossy Snake
+Gobi Bear
+Gobi Ibex
+Goitered Gazelle
+Golden Eagle
+Gopher Snake
+Grace’s Warbler
+Grant’s Golden Mole
+Gray Fox
+Gray Vireo
+Gray-banded Kingsnake
+Great Basin Collared Lizard
+Great Basin Gopher Snake
+Great Desert Skink
+Great Horned Owl
+Great Indian Bustard
+Great Plains Toad
+Greater Roadrunner
+Greater-spotted Eagle
+Grey Wolf
+Ground Pangolin
+Guanaco
+Harris’s Antelope Squirrel
+Harris’s Hawk
+Hartebeest
+Humboldt Penguins
+Indian Desert Jird
+Indian Peafowl
+Indian Spiny-Tailed Lizard
+Indian spotted eagle
+Indian Wild Ass
+Inyo Mountains Salamander
+Jaguar
+Javelina (Peccary)
+Jerboa
+Kalahari Giraffe
+Kalahari Lion
+Kalahari Purple-glossed Snake
+Kern Plateau salamander
+Kit Fox
+Kudu
+Lagger Falcon
+Lanner Falcon
+Laungwala Long-headed Lizard
+Lava Lizard
+Lawrence’s Goldfinch
+LeConte’s Thrasher
+Lesser Long-nosed Bat
+Loach Minnow
+Long-tailed Brush Lizard
+Lucy’s Warbler
+Malleefowl
+Marbled Polecat
+Maricopa harvester ant
+Martial Eagle
+Mearns Coyote
+Mearns’ Coyote
+Mediterranean Monk Seal
+Meerkat
+Merriam’s Kangaroo Rat
+Merriam’s Pocket Mouse
+Mesquite Mouse
+Mexican Black Kingsnake
+Mexican Jay
+Mexican Long-tongued Bat
+Mexican Whip-poor-will
+Mexican Wolf
+Moapa Dace
+Mojave Ground Squirrel
+Mojave Rattlesnake
+Mojave Sootywing
+Mongolian Wild Ass
+Monitor Lizard
+Montezuma Quail
+Morongo Desert Snail
+Mule Deer
+Namaqua Chameleon
+Namaqua Dove
+Namib Desert Beetle
+Namib Desert Viper
+Namib Long-eared Bat
+Namib Sand Gecko
+Namib Sand Snake
+Near Eastern Fire Salamander
+Negev Shrew
+Negev Tortoise
+North African Gerbil
+North African Sahara Honeybee
+North American Jaguar
+Northern Phainopepla
+Nubian Bustard
+Nubian Ibex
+Obscure Ground Mantis
+Olive Baboon
+Olive Warbler
+Oryx
+Ostrich
+Owens Pupfish
+Pacific Burrowing Wasp
+Painted Bunting
+Pale Chanting Goshawk
+Pale Fox
+Pallid Bat
+Panamint alligator lizard
+Panamint chipmunk
+Panamint Chipmunk
+Panamint Kangaroo Rat
+Panamint Rattlesnake
+Perentie
+Pocketed Free-tailed Bat
+Prairie Falcon
+Princess Parrot
+Pronghorn
+Przewalski’s Horse
+Przewalski’s Wonder Gecko
+Ratel
+Red Diamond Rattlesnake
+Red Fox
+Red Kangaroo
+Red-faced Warbler
+Red-tailed Hawk
+Rhim Gazelle
+Ring-tailed Cat
+Roadrunner
+Rock Hyrax
+Rock Monitor
+Rock Squirrel
+Rosy Boa
+Rough-footed Mud Turtle
+Rough-scaled Sand Boa
+Round-tailed Ground Squirrel
+Rüppell’s Fox
+Sagebrush Sparrow
+Sahara Frog
+Sahara Oryx
+Saharan Cheetah
+Saharan Horned Viper
+Saharan Shrew
+Saharan Silver Ant
+Saharan Striped Weasel
+San Joaquin Pocket Mouse
+Sand Cat
+Sand Dune Cat
+Sand Goanna
+Sandhill Dunnart
+Sandplover
+Saratoga Springs Pupfish
+Saw-scaled Viper
+Scarab Beetle
+Scarlet-chested Parrot
+Scrub Hare
+Secretary Bird
+Shaheen Falcon
+Shining Tree Iguana
+Short-toed Snake Eagle
+Shoshone Pupfish
+Sinai Agama
+Slender-billed Finch
+Slender-billed Thornbill
+Snow Leopard
+Sociable Weaver
+Sonora mud turtle
+Sonora Sucker
+Sonoran Collared Lizard
+Sonoran Desert Toad
+Sonoran Gopher Snake
+Sonoran Pronghorn
+Sonoran Shovelnose Snake
+Sonoyta Pupfish
+South African Cheetah
+South African Lion
+South American Fur Seal
+South American Grey Fox
+Southern Marsupial Mole
+Southern Pocket Gopher
+Southern Viscacha
+Southern Warthog
+Southern White Rhinoceros
+Southern Yellow-billed Hornbill
+Southwestern Fence Lizard
+Speckled Rattlesnake
+Spinifex Hopping Mouse
+Spotted Bat
+Spotted Hyena
+Spotted Owl
+Springbok
+Steenbok
+Stink Beetle
+Striped Hyena
+Tamarugo Conebill
+Tarantula
+Tawny Eagle
+Tecopa Pupfish
+Texas Banded Gecko
+Texas Diamondback Rattlesnake
+Thorny Devil
+Tiger Rattlesnake
+Trans-Pecos Rat Snake
+Trans-Pecos Striped Whiptail
+Trench Beetle
+Tui Chub
+Vermilion Flycatcher
+Victorville Shoulderband
+Vicuña
+Water-holding Frog
+Western Diamondback Rattlesnake
+Western Pygmy Blue
+Western Screech Owl
+White Antelope
+White-eyed Buzzard
+White-footed Fox
+White-tailed Antelope Squirrel
+White-throated Woodrat
+White-winged Dove
+Wildebeest
+Woodhouse’s Scrub Jay
+Yanez’s Tree Iguana
+Yellow-backed Spiny Lizard
+Yellow-headed Blackbird
+Yuma Myotis
+Zebra
+Zebra-tailed Lizard

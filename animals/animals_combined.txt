@@ -1,97 +1,97 @@
 Aardvark
-African Elephant
-African Tree Pangolin
+African elephant
+African tree pangolin
 Albatross
 Alligator
 Alpaca
 Anaconda
-Angel Fish
+Angel fish
 Ant
 Anteater
 Antelope
-Archer Fish
-Armadillo
-Asian Elephant
-Atlantic Puffin
-Aye-Aye
 Arab horse
+Archer fish
+Armadillo
+Asian elephant
+Atlantic puffin
+Aye-aye
 Baboon
 Badger
-Bald Eagle
+Bald eagle
 Bandicoot
-Bangle Tiger
+Bangle tiger
 Barnacle
 Barracuda
 Basilisk
 Bass
-Basset Hound
+Basset hound
 Bat
-Bearded Dragon
+Bearded dragon
 Beaver
 Bee
 Beetle
-Beluga Whale
-Bird
+Beluga whale
 Big-horned sheep
+Billy goat
+Bird
 Bird of paradise
 Bison
-Billy goat
-Black Bear
-Black Fly
-Black Rhino
-Black Footed Rhino
-Black Widow Spider
+Black bear
+Black fly
+Black footed rhino
+Black rhino
+Black widow spider
 Blackbird
 Blowfish
-Blue Jay
-Blue Whale
+Blue jay
+Blue whale
 Boa
 Boar
-Bob-Cat
+Bob-cat
 Bonobo
-Bottle-Nose dolphin
-Bornean Orang-utan
+Border collie
+Bornean orang-utan
+Bottle-nose dolphin
 Boxer dog
-Brown Bear
+Brown bear
 Buck
 Budgie
 Buffalo
 Bull
+Bull mastiff
 Bull frog
-Bull Mastiff
 Butterfly
 Buzzard
-Border Collie
-Caribou
-Cheetah
-Common Dolphin
-Common seal
 Caiman lizard
 Camel
 Canary
+Caribou
 Carp
 Cat
 Caterpillar
-Cattle
 Catfish
-Chameleon
+Cattle
 Centipede
+Chameleon
+Cheetah
 Chicken
-Chimpanzee
 Chihuahua
+Chimpanzee
 Chinchilla
 Chipmunk
-Clam
 Chupacabra
-Clown Fish
+Clam
+Clown fish
 Cobra
-Cocker Spaniel
 Cockatiel
 Cockatoo
+Cocker spaniel
 Cockroach
 Cod
 Coho
-Corn Snake
+Common dolphin
+Common seal
+Corn snake
 Cougar
 Cow
 Coyote
@@ -104,33 +104,32 @@ Crocodile
 Crow
 Cuckoo bird
 Cuttle fish
-Deer
-Dog
-Du-gong
-Dalmation
 Dacshund
+Dalmation
 Damsel fly
-Dart Frog
-Devi Fish (Giant Sting ray)
+Dart frog
+Deer
+Devi fish (giant sting ray)
 Diamond back rattler
 Dik-dik
 Dingo
 Dinosaur
-Doberman Pinscher
+Doberman pinscher
 Dodo bird
+Dog
+Dolly varden
 Dolphin
-Dolly Varden
 Donkey
 Door mouse
 Dormouse
-Draft horse
 Dove
+Draft horse
 Dragonfly
 Drake
+Du-gong
 Duck
-Duckbill Platypus
+Duckbill platypus
 Dung beetle
-Eurasian Lynx
 Eagle
 Earthworm
 Earwig
@@ -139,25 +138,26 @@ Eclectus
 Eel
 Egret
 Elephant
-Elephant Seal
+Elephant seal
 Elk
 Emu
 Erne
+Eurasian lynx
 Falcon
+Ferret
 Finch
-Fish
 Firefly
+Fish
 Flamingo
 Flatworm
 Fly
-Ferret
 Fox
-Fresh Water Crocodile
+Fresh water crocodile
 Frog
-Galapagos Land Iguana
-Galapagos Tortoise
+Galapagos land iguana
+Galapagos tortoise
 Gazelle
-Giant Anteater
+Giant anteater
 Giant panda
 Giraffe
 Gnat
@@ -166,11 +166,11 @@ Goose
 Gopher
 Gorilla
 Grasshopper
+Great white shark
+Green sea turtle
 Green fly
-Grey Whale
-Great White Shark
 Green poison dart frog
-Green Sea Turtle
+Grey whale
 Groundhog
 Hammerhead shark
 Hare
@@ -182,23 +182,23 @@ Hippopotamus
 Horse
 Hyena
 Hyrax
-Irrawaddy Dolphin
 Iguana
 Iguanodon
 Impala
 Inchworm
 Insect
-Jellyfish
+Irrawaddy dolphin
 Jackal
 Jackrabbit
 Jaguar
+Jellyfish
 June bug
 Kangaroo
-Killer Whale
-King Cobra
+Killer whale
+King cobra
 Kingfisher
 Koala
-Komodo Dragon
+Komodo dragon
 Kookaburra
 Krill
 Lama
@@ -215,8 +215,8 @@ Lionfish
 Llama
 Lobster
 Lynx
+Man-of-war
 Manatee
-Man-Of-War
 Mantis
 Marmot
 Marsupials
@@ -224,16 +224,16 @@ Meerkat
 Mink
 Mole
 Mollusks
-Monarch Butterfly
+Monarch butterfly
 Mongoose
 Monkey
 Moose
-Mountain Lion
+Mountain lion
 Mouse
 Mule
 Muskox
 Muskrat
-Naked Mole Rat
+Naked mole rat
 Narwhal
 Nautilus
 Newt
@@ -255,10 +255,10 @@ Penguin
 Pig
 Pigeon
 Platypus
-Polar Bear
+Polar bear
 Porcupine
-Praying Mantis
 Prawn
+Praying mantis
 Puma
 Quail
 Quetzal
@@ -268,57 +268,57 @@ Rat
 Ray
 Reindeer
 Rhino
-Ringworm
 Rhinoceros
+Ringworm
 Robin
 Rooster
 Roundworm
 Salmon
 Salt water alligator
 Sandpiper
-Seahorse
-Seal
-Sea anemone
-Sea Lion
-Sea urchin
 Scallop
 Scorpion
+Sea lion
+Sea anemone
+Sea urchin
+Seahorse
+Seal
 Shark
 Sheep
 Shrimp
-Siberian Husky
-Siberian Tiger
+Siberian husky
+Siberian tiger
 Skunks
-Slender Loris
+Slender loris
 Sloth
 Sloth bear
 Slugs
 Snails
 Snake
-Snow Hare
-Snow Fox
-Snow Leopard
-Somali Wild Ass
+Snow fox
+Snow hare
+Snow leopard
+Somali wild ass
+Spectacled bear
 Sponge
-Spectacled Bear
 Squid
 Squirrel
 Starfish
 Stork
 Swan
 Swordfish
-Tapir
-Tasmanian Devil
-Tiger
 Tadpole
 Tamarin
 Tapeworm
+Tapir
 Tarantula
 Tarpan
+Tasmanian devil
 Tazmanian devil
 Tazmanian tiger
 Terrapin
 Tick
+Tiger
 Tiger shark
 Tortoise
 Trout
@@ -328,51 +328,52 @@ Uakari
 Umbrella bird
 Urchin
 Urutu
-Vicuna
-Viper
-Vulture
 Vampire bat
 Velociraptor
-Vole
-Viper Fish
 Velvet worm
 Vervet
+Vicuna
+Viper
+Viper fish
+Vole
+Vulture
+Wallaby
 Walrus
 Warbler
 Warthog
 Wasp
-Water Buffalo
-Water Dragons
-Wallaby
-Whale
-Whale Shark
-White Rhino
-Whippet
-White tailed dear
-Whooper
-Whooping Crane
+Water buffalo
+Water dragons
 Weasel
 Weevil
-Wolf
-Wolf Spider
-Wolverine
-Woodchuck
-Woodpecker
-Widow Spider
-Wren
-Wombat
+Whale
+Whale shark
+Whippet
+White rhino
+White tailed dear
+Whooper
+Whooping crane
+Widow spider
 Wildcat
 Wildebeest
+Wolf
+Wolf spider
+Wolverine
+Wombat
+Woodchuck
+Woodpecker
+Wren
 X-ray fish
 Yak
-Yellow Bellied Marmot
+Yellow bellied marmot
 Yellow belly sapsucker
 Yellow finned tuna
 Yeti
 Yorkshire terrier
 Zander
 Zebra
-Zebra Finch
-Zebra Dove
-Zorilla
+Zebra dove
+Zebra finch
 Zebu
+Zebu
+Zorilla

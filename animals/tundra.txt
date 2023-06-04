@@ -1,0 +1,133 @@
+Adelie penguin
+Alpine musk deer
+American badger
+American pika
+Antarctic giant petrel
+Antarctic krill
+Antarctic petrel
+Antarctic prion
+Antarctic shag
+Antarctic tern
+Antipodean albatross
+Arctic bumblebee
+Arctic fox
+Arctic fulmar
+Arctic ground squirrel
+Arctic hare
+Arctic lamprey
+Arctic loon
+Arctic tern
+Arctic wolf
+Bald eagle
+Beluga whale
+Bighorn sheep
+Black-bellied storm petrel
+Black-browed albatross
+Blue petrel
+Blue whale
+Blue-eyed shag
+Bobcat
+Brown skua
+Bushy-tailed wood rat (Packrat)
+Canada lynx
+Cape petrel
+Caribou
+Chinstrap penguin
+Clark’s nutcracker
+Common diving petrel
+Common raven
+Coyote
+Crabeater seal
+Dall sheep
+Elephant seal
+Elk
+Emperor penguin
+Fairy prion
+Fin whale
+Gentoo penguin
+Golden-mantled ground squirrel
+Great-winged petrel
+Greenland shark
+Grey-backed storm petrel
+Grey-headed albatross
+Grizzly bear
+Hall’s giant petrel
+Harbor seal
+Harlequin duck
+Harp seal
+Himalayan musk deer
+Himalayan tahr
+Hoary marmot
+Horned lark
+Horned puffin
+Humpback whale
+Imperial shag
+Kelp gull
+Kerguelen petrel
+King penguin
+Lemming
+Leopard seal
+Light-mantled albatross
+Macaroni penguin
+Minke whale
+Moose
+Mountain goat
+Mule deer
+Muskox
+Narwhal
+North American porcupine
+Northern royal albatross
+Orca
+Patagonian toothfish
+Peregrine falcon
+Polar bear
+Prairie falcon
+Red fox
+Ringed seal
+Rock ptarmigan
+Ross seal
+Ross’s gull
+Rosy finch
+Ruddy turnstone
+Salvin’s albatross
+Salvin’s prion
+Sea leopard
+Sea otter
+Sei whale
+Shy albatross
+Slender-billed prion
+Snow bunting
+Snow goose
+Snow leopard
+Snow petrel
+Snow quail
+Snowshoe hare
+Snowy owl
+Snowy sheathbill
+Sooty albatross
+Sooty shearwater
+South Georgia diving petrel
+South polar skua
+Southern bottlenose whale
+Southern fulmar
+Southern rockhopper penguin
+Southern royal albatross
+Spectacled porpoise
+Stoat
+Tundra Shrew
+Tundra swan
+Tundra vole
+Walrus
+Wandering albatross
+Water pipit
+Weddell seal
+White-chinned petrel
+White-crowned sparrow
+White-headed petrel
+White-tailed ptarmigan
+Wild yak
+Wilson’s storm petrel
+Wolverine
+Yellow-bellied marmot
+Yellow-billed pintail
+Yellow-eyed penguin

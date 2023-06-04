@@ -1,0 +1,64 @@
+Anchovies
+Barracuda
+Basa
+Bass
+Black cod
+Blowfish
+Bluefish
+Bombay duck
+Bream
+Brill
+Butter fish
+Catfish
+Cod
+Dogfish
+Dorade
+Eel
+Flounder
+Grouper
+Haddock
+Hake
+Halibut
+Herring
+Ilish
+John Dory
+Lamprey
+Lingcod
+Mackerel
+Mahi Mahi
+Monkfish
+Mullet
+Orange roughy
+Parrotfish
+Patagonian toothfish
+Perch
+Pike
+Pilchard
+Pollock
+Pomfret
+Pompano
+Sablefish
+Salmon
+Sanddab
+Sardine
+Sea bass
+Shad
+Shark
+Skate
+Smelt
+Snakehead
+Snapper
+Sole
+Sprat
+Sturgeon
+Surimi
+Swordfish
+Tilapia
+Tilefish
+Trout
+Tuna
+Turbot
+Wahoo
+Whitefish
+Whiting
+Witch
